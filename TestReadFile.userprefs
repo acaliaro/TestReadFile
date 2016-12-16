@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{D61E1911-11CD-414B-A525-DBF3D8271780}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/FilesImplementation.cs">
+    <Files>
+      <File FileName="TestReadFile/Pages/PageMain.cs" Line="58" Column="47" />
+      <File FileName="TestReadFile/TestReadFile.cs" Line="13" Column="40" />
+      <File FileName="TestReadFile/ViewModels/PageMainViewModel.cs" Line="53" Column="6" />
+      <File FileName="TestReadFile/Interfaces/IFiles.cs" Line="8" Column="35" />
+      <File FileName="Droid/FilesImplementation.cs" Line="34" Column="1" />
+      <File FileName="TestReadFile/FodyWeavers.xml" Line="3" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/alessandrocaliaro/Projects/Test/TestReadFile/TestReadFile/ViewModels/PageMainViewModel.cs" line="62" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TestReadFile.Droid PreferredExecutionTarget="Android.01575C2C0200901E" />
+  <MonoDevelop.Ide.ItemProperties.TestReadFile.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A6ABDE29-C1BC-446C-9140-D4B7A84C620C" />
+</Properties>
